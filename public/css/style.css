@@ -1,0 +1,12 @@
+.birthday {
+    margin-top: 7px;
+}
+
+.form-require {
+    background: #ea352d;
+    margin: 0 0 8 8px;
+    padding: 2px 4px;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 12px;
+}
